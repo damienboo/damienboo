@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Damien 👋
 
-<!--
-**damienboo/damienboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science scholar at UCSI University focused on building solid software, automating workflows, and exploring backend logic. 
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+*   **Core Languages:** Java, Python, C++, SQL
+*   **Web Development:** HTML, CSS, JavaScript
+*   **Tools & Automation:** Playwright, Streamlit 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Doing
+*   Building data-driven tools and automated web scrapers (like my MY-Tender Tracker).
+*   Tinkering with AI logic and tackling Capture The Flag (CTF) challenges.
+*   Writing backend scripts and expanding my software development foundations.
