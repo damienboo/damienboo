@@ -10,4 +10,4 @@ I'm a Computer Science scholar at UCSI University focused on building solid soft
 ### 🚀 What I'm Doing
 *   Building data-driven tools and automated web scrapers (like my MY-Tender Tracker).
 *   Tinkering with AI logic and tackling Capture The Flag (CTF) challenges.
-*   Writing backend scripts and expanding my software development foundations.
+*   Writing backend scripts and expanding software development foundations.
